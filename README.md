@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I'm Michele Ventimiglia, an AI Engineer and Consultant with a passion for Artificial Intelligence, coding, and technology. I am currently pursuing an inter-university Bachelor's degree in Artificial Intelligence at the Universities of Pavia, Milano-Statale, and Milano-Bicocca.
+I'm Michele Ventimiglia, an AI Engineer and Consultant passionate about Artificial Intelligence, coding, and technology. I am pursuing an inter-university Bachelor's in Artificial Intelligence at the Universities of Pavia, Milano-Statale, and Milano-Bicocca.
 
 ### 🎓 Education
 
@@ -32,17 +32,6 @@ I'm Michele Ventimiglia, an AI Engineer and Consultant with a passion for Artifi
 - **Auditor ISO/IEC 42001:2023**
 - **Auditor ISO 19011**
 
-### 📚 Projects
-- **Amazon Books Reviews Classifier**
-  - Sentiment Analysis of Book Reviews Using PyTorch
-  - Skills: Neural Networks, Natural Language Processing
-  - [GitHub Repo](https://github.com/MikiTwenty/python/tree/main/projects/natural-language-processing/sentiment-analysis/amazon-books-reviews-classifier)
-
-- **Cart Pole Agent**
-  - Deep Q-Network for balancing a pole on a moving cart
-  - Skills: Reinforcement Learning
-  - [GitHub Repo](https://github.com/MikiTwenty/python/tree/main/projects/reinforcement-learning/deep-q-networks/cart-pole-agent)
-
 ### 🤝 Volunteering
 
 - **Artificial Intelligence Course Representative** at University of Pavia
@@ -53,7 +42,7 @@ I'm Michele Ventimiglia, an AI Engineer and Consultant with a passion for Artifi
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michele-ventimiglia/)
 
-I'm always open to connecting with like-minded professionals and exploring new opportunities in the fields of AI.
+I'm always open to connecting with like-minded professionals and exploring new opportunities in the field of AI.
 
 ---
 
