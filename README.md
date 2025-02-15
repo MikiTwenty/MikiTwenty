@@ -2,50 +2,65 @@
 
 ## 👋 About Me
 
-I'm Michele Ventimiglia, an AI Engineer and Consultant passionate about Artificial Intelligence, coding, and technology. I am pursuing an inter-university Bachelor's in Artificial Intelligence at the Universities of Pavia, Milano-Statale, and Milano-Bicocca.
+I'm Michele Ventimiglia, an **AI Engineer and Consultant** specializing in **Artificial Intelligence, Data Science, and Web Development**. I am currently pursuing an **MSc in Artificial Intelligence for Science and Technology**, an inter-university program at the **University of Pavia, University of Milan, and University of Milano-Bicocca**.
+
+My work focuses on **AI-driven solutions**, **full-stack development**, and **LLM-based applications**, leveraging cutting-edge technologies to optimize business processes and enhance AI interpretability.
 
 ### 🎓 Education
 
-- **Bachelor's Degree in Artificial Intelligence**
-  - Universities: Pavia, Milano-Statale, and Milano-Bicocca
-  - Language: English
+- **Master’s Degree in Artificial Intelligence for Science and Technology**
+  - Universities: Pavia, Milan, and Milano-Bicocca
+  - Focus: AI Research, Mathematics, Physics, Management, and AI Ethics
+- **Bachelor’s Degree in Artificial Intelligence**
+  - Universities: Pavia, Milan, and Milano-Bicocca
+  - Focus: Machine Learning, Deep Learning, NLP, Data Mining, and AI Ethics
 
 ### 💼 Experience
 
-- **Artificial Intelligence Engineer** at Coherency S.r.l.
-  - Applied AI in Robotics, IoT, and Automated Systems
-- **Artificial Intelligence Consultant** at Integrated Risk Centre
-  - B2B consultancy for customized AI solutions
+- **AI Engineer & Consultant** at **Integrated Risk Centre S.r.l.** (2023 - Present)
+  - Develops **custom AI solutions** for business intelligence and automation
+  - Implements **LLM-based decision-making systems** for B2B applications
+
+- **AI Engineer Intern** at **Coherency S.r.l.** (April 2024 – July 2024)
+  - Applied AI in **robotics** through **computer vision** and **RAG-based LLMs**
+  - Contributed to the development of an **autonomous robotic security system**
 
 ### 🛠️ Skills
 
 - **Programming Languages:**
-  - Python, C, R, SPARQL
+  - Python, JavaScript, C, R, SQL
 - **AI and Machine Learning:**
-  - Data Analysis, Machine Learning, Neural Networks, Deep Learning, Natural Language Processing, Reinforcement Learning, Fuzzy Systems, Generative AI Tools
-- **Data Science and Engineering:**
-  - Probability and Statistical Inference, Information Retrieval, Recommender Systems
-- **Other Technical Skills:**
-  - CAD, 3D Printing, IoT, GitHub, Linux, Arduino, SPARQL, Autodesk Fusion 360, Ultimaker Cura, Microsoft Office, WordPress, Lightroom
+  - Data Analysis, Machine Learning, Deep Learning, NLP, Retrieval-Augmented Generation (RAG), AI Ethics
+- **Software & Web Development:**
+  - **Full-Stack Development:** Django, JavaScript, CSS
+  - **DevOps:** Docker, Git, VPS, CI/CD, PostgreSQL
+- **Security & Forensics:**
+  - AI Governance, Cybersecurity, Digital Forensics
 
-### 📈 Certifications
-- **Auditor ISO/IEC 42001:2023**
-- **Auditor ISO 19011**
+### 📜 Certifications
 
-### 🤝 Volunteering
+- **Auditor/Lead Auditor ISO 19011**
+- **Auditor/Lead Auditor ISO 42001 (AI Management Systems)**
+- **Cambridge English: First (FCE)**
 
-- **Artificial Intelligence Course Representative** at University of Pavia
-- **Department of Mathematics Representative** at University of Pavia
-- **Partner** at comPVter, a social promotion association dedicated to the dissemination of technological knowledge
+### 🤝 Associations
 
-### 🌐 Contacts
+- **Associate at ENIA (Ente Nazionale Intelligenza Artificiale)**
+  - **ENIA** is a leading **AI research and policy organization** in Italy, specializing in **AI governance, cybersecurity, and digital forensics**.
+  - I am a part of the **Department of Information Security and Forensics**, working on **AI safety, risk analysis, and ethical AI deployment**.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michele-ventimiglia/)
+- **Associate at compvter**
+  - **compvter** manages the **CTRL ALT Museum**, an institution dedicated to **digital culture, AI-driven artistic expression, and computational heritage**.
+  - I contribute to technological projects that **merge AI with creative industries**.
 
-I'm always open to connecting with like-minded professionals and exploring new opportunities in the field of AI.
+### 🌐 Contact & Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michele-ventimiglia/)
+
+I'm always open to **collaborations**, **research projects**, and **new AI-driven innovations**!
 
 ---
 
-If you would like to support me:
+### ☕ Support My Work
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mikitwenty)
