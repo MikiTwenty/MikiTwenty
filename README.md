@@ -72,7 +72,7 @@ Most of my work is in private client repositories, so this page is the portfolio
 
 | | |
 | --- | --- |
-| **Education** | BSc in Artificial Intelligence (2021-2024), University of Pavia, University of Milan, University of Milano-Bicocca |
+| **Education** | MSc in Artificial Intelligence for Science & Technology (since 2024)<br>BSc in Artificial Intelligence (2021-2024)<br>University of Pavia, University of Milan, University of Milano-Bicocca |
 | **Certifications** | Gemini Enterprise Deployment, Certified Partner Specialist (Google Cloud)<br>Lead Auditor ISO/IEC 42001 and 27001, Auditor ISO 22301<br>English C1 |
 | **Talks and awards** | "AI for Technical Standards & Risk Management", Ctrl+Alt Museum, Pavia (Jun 2025)<br>"AI & Human-Centred Tradition in SMEs", Vigevano (Oct 2024)<br>Best Innovative Startup, Techstars Startup Weekend Pavia (Oct 2024) |
 | **Community** | Activators Pavia, comPVter and the Ctrl+Alt retrocomputing museum, Il Cibernetico (board member and author), OpenStreetMap contributor. Former Student Union President and student representative, University of Pavia. |
