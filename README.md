@@ -18,10 +18,10 @@ How a project usually goes. Compliance work (I am a lead auditor for ISO/IEC 420
 
 ```mermaid
 flowchart LR
-    A("Problem<br/>where AI pays off") --> B("Prototype<br/>agents, RAG, models")
-    B --> C("Evaluation<br/>on real data")
-    C --> D("Delivery<br/>FastAPI, Docker, cloud")
-    D --> E("Governance<br/>monitoring, compliance")
+    A("Problem<br/>where AI adds value") --> B("Prototype<br/>test the idea fast")
+    B --> C("Evaluation<br/>measure on real cases")
+    C --> D("Delivery<br/>put it in users' hands")
+    D --> E("Governance<br/>monitor and stay compliant")
     E -.->|"feedback"| A
 
     classDef s1 fill:#fff1e3,stroke:#b0581c,stroke-width:2px,color:#3a1d0c;
@@ -39,54 +39,13 @@ flowchart LR
 
 ## Experience
 
-<details open>
-<summary><b>PwC Italy</b>, Senior AI Engineer, 2026 to now</summary>
-<br>
-
-- Designing and delivering agentic AI projects
-- Leading project-based teams of engineers and consultants across client engagements
-- Direct client work, from requirements gathering to delivery
-- Research on physical AI
-
-</details>
-
-<details open>
-<summary><b>IDA Italia</b> (startup), Chief AI Officer, 2025 to 2026</summary>
-<br>
-
-- Led the AI infrastructure meant to simplify and scale Italian export
-- Coordinated IT and AI teams in adopting AI across business processes
-- Automation, compliance, logistics and data-driven processes for Made in Italy
-
-</details>
-
-<details>
-<summary><b>Integrated Risk Centre</b>, AI Consultant, 2023 to 2026</summary>
-<br>
-
-- Helped organizations identify where to apply AI and designed tailored solutions
-- Built GenAI services (semantic search, document classification) into enterprise workflows
-- FastAPI microservices in Docker for scalable deployment
-
-</details>
-
-<details>
-<summary><b>Freelance</b>, AI Engineer, 2023 to 2026</summary>
-<br>
-
-- RAG knowledge systems on LLM APIs and vector stores for semantic document retrieval
-- Agentic pipelines automating business intelligence workflows for SME clients
-- Python backends for AI features such as document classification and workflow automation
-
-</details>
-
-<details>
-<summary><b>Coherency</b>, AI Engineer for Robotics (intern), 2024</summary>
-<br>
-
-- Computer vision and RAG on a Unitree Go2 robot, for autonomous security and guidance use
-
-</details>
+| | |
+| --- | --- |
+| 2026-now | **PwC Italy**, Senior AI Engineer<br>Agentic AI projects, team leadership and direct client work, research on physical AI. |
+| 2025-2026 | **IDA Italia** (startup), Chief AI Officer<br>AI infrastructure to simplify and scale Italian export, coordinating IT and AI teams. |
+| 2023-2026 | **Integrated Risk Centre**, AI Consultant<br>GenAI services for enterprise workflows: semantic search and document classification. |
+| 2023-2026 | **Freelance**, AI Engineer<br>RAG knowledge systems and agentic pipelines for SME clients. |
+| 2024 | **Coherency**, AI Engineer for Robotics (intern)<br>Computer vision and RAG on a Unitree Go2 robot. |
 
 ## Selected work
 
@@ -111,35 +70,9 @@ Most of my work is in private client repositories, so this page is the portfolio
 
 ## Background
 
-<details>
-<summary>Education and certifications</summary>
-<br>
-
-- BSc in Artificial Intelligence (2021 to 2024), University of Pavia, University of Milan, University of Milano-Bicocca
-- Certified Partner Specialist: Gemini Enterprise Deployment (Google Cloud)
-- Lead Auditor ISO/IEC 42001 (AI management systems) and ISO/IEC 27001 (information security); Auditor ISO 22301 (business continuity)
-- English C1
-
-</details>
-
-<details>
-<summary>Talks and awards</summary>
-<br>
-
-- Invited speaker, "AI for Technical Standards & Risk Management", Ctrl+Alt Museum, Pavia (Jun 2025)
-- Invited speaker, "AI & Human-Centred Tradition in SMEs", Vigevano (Oct 2024)
-- Best Innovative Startup, Techstars Startup Weekend Pavia (Oct 2024)
-
-</details>
-
-<details>
-<summary>Community</summary>
-<br>
-
-- Activators Pavia, innovation and startup community
-- comPVter, which runs the Ctrl+Alt Museum, a retrocomputing museum in Pavia
-- Il Cibernetico, electronic magazine: board member and author
-- Former Student Union President and student representative, University of Pavia
-- OpenStreetMap contributor
-
-</details>
+| | |
+| --- | --- |
+| **Education** | BSc in Artificial Intelligence (2021-2024), University of Pavia, University of Milan, University of Milano-Bicocca |
+| **Certifications** | Gemini Enterprise Deployment, Certified Partner Specialist (Google Cloud)<br>Lead Auditor ISO/IEC 42001 and 27001, Auditor ISO 22301<br>English C1 |
+| **Talks and awards** | "AI for Technical Standards & Risk Management", Ctrl+Alt Museum, Pavia (Jun 2025)<br>"AI & Human-Centred Tradition in SMEs", Vigevano (Oct 2024)<br>Best Innovative Startup, Techstars Startup Weekend Pavia (Oct 2024) |
+| **Community** | Activators Pavia, comPVter and the Ctrl+Alt retrocomputing museum, Il Cibernetico (board member and author), OpenStreetMap contributor. Former Student Union President and student representative, University of Pavia. |
