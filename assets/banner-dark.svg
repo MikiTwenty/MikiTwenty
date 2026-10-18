@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-labelledby="t d">
+  <title id="t">Michele Ventimiglia, Senior AI Engineer</title>
+  <desc id="d">Banner with a small neural network drawing. Agentic AI, GenAI and physical AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b0581c"/>
+      <stop offset="1" stop-color="#4e2710"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffd7b3" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffd7b3" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffd7b3" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffd7b3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .n { fill: #ffffff; animation: pulse 3.2s ease-in-out infinite; }
+    .l { stroke: #ffffff; stroke-opacity: 0.22; stroke-width: 1; }
+    .flow { stroke: #ffd7b3; stroke-width: 1.6; stroke-linecap: round; stroke-dasharray: 6 150; animation: flow 4s linear infinite; fill: none; opacity: .9; }
+    @keyframes pulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+    @keyframes flow { from { stroke-dashoffset: 156; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .n, .flow { animation: none; } .n { opacity: .9; } .flow { display: none; } }
+  </style>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <ellipse cx="950" cy="140" rx="300" ry="160" fill="url(#halo)"/>
+  <g>
+    <line class="l" x1="800" y1="60" x2="900" y2="40"/>
+    <line class="l" x1="800" y1="60" x2="900" y2="110"/>
+    <line class="l" x1="800" y1="60" x2="900" y2="170"/>
+    <line class="l" x1="800" y1="60" x2="900" y2="240"/>
+    <line class="l" x1="800" y1="140" x2="900" y2="40"/>
+    <line class="l" x1="800" y1="140" x2="900" y2="110"/>
+    <line class="l" x1="800" y1="140" x2="900" y2="170"/>
+    <line class="l" x1="800" y1="140" x2="900" y2="240"/>
+    <line class="l" x1="800" y1="220" x2="900" y2="40"/>
+    <line class="l" x1="800" y1="220" x2="900" y2="110"/>
+    <line class="l" x1="800" y1="220" x2="900" y2="170"/>
+    <line class="l" x1="800" y1="220" x2="900" y2="240"/>
+    <line class="l" x1="900" y1="40" x2="1000" y2="60"/>
+    <line class="l" x1="900" y1="40" x2="1000" y2="125"/>
+    <line class="l" x1="900" y1="40" x2="1000" y2="195"/>
+    <line class="l" x1="900" y1="110" x2="1000" y2="60"/>
+    <line class="l" x1="900" y1="110" x2="1000" y2="125"/>
+    <line class="l" x1="900" y1="110" x2="1000" y2="195"/>
+    <line class="l" x1="900" y1="170" x2="1000" y2="60"/>
+    <line class="l" x1="900" y1="170" x2="1000" y2="125"/>
+    <line class="l" x1="900" y1="170" x2="1000" y2="195"/>
+    <line class="l" x1="900" y1="240" x2="1000" y2="60"/>
+    <line class="l" x1="900" y1="240" x2="1000" y2="125"/>
+    <line class="l" x1="900" y1="240" x2="1000" y2="195"/>
+    <line class="l" x1="1000" y1="60" x2="1100" y2="100"/>
+    <line class="l" x1="1000" y1="60" x2="1100" y2="180"/>
+    <line class="l" x1="1000" y1="125" x2="1100" y2="100"/>
+    <line class="l" x1="1000" y1="125" x2="1100" y2="180"/>
+    <line class="l" x1="1000" y1="195" x2="1100" y2="100"/>
+    <line class="l" x1="1000" y1="195" x2="1100" y2="180"/>
+  </g>
+  <path class="flow" d="M800 220 L900 170" style="animation-delay:0.0s"/>
+  <path class="flow" d="M800 140 L900 40" style="animation-delay:0.5s"/>
+  <path class="flow" d="M900 40 L1000 60" style="animation-delay:1.0s"/>
+  <path class="flow" d="M900 170 L1000 195" style="animation-delay:1.5s"/>
+  <path class="flow" d="M800 60 L900 110" style="animation-delay:2.0s"/>
+  <path class="flow" d="M800 60 L900 170" style="animation-delay:2.5s"/>
+  <path class="flow" d="M900 110 L1000 195" style="animation-delay:3.0s"/>
+  <path class="flow" d="M800 60 L900 240" style="animation-delay:3.5s"/>
+  <g>
+    <circle class="n" cx="800" cy="60" r="6" style="animation-delay:0.00s"/>
+    <circle class="n" cx="800" cy="140" r="6" style="animation-delay:0.45s"/>
+    <circle class="n" cx="800" cy="220" r="6" style="animation-delay:0.90s"/>
+    <circle class="n" cx="900" cy="40" r="6" style="animation-delay:1.35s"/>
+    <circle class="n" cx="900" cy="110" r="6" style="animation-delay:1.80s"/>
+    <circle class="n" cx="900" cy="170" r="6" style="animation-delay:2.25s"/>
+    <circle class="n" cx="900" cy="240" r="6" style="animation-delay:2.70s"/>
+    <circle class="n" cx="1000" cy="60" r="6" style="animation-delay:0.00s"/>
+    <circle class="n" cx="1000" cy="125" r="6" style="animation-delay:0.45s"/>
+    <circle class="n" cx="1000" cy="195" r="6" style="animation-delay:0.90s"/>
+    <circle class="n" cx="1100" cy="100" r="6" style="animation-delay:1.35s"/>
+    <circle class="n" cx="1100" cy="180" r="6" style="animation-delay:1.80s"/>
+  </g>
+  <g font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
+    <text x="64" y="112" font-size="54" font-weight="700" fill="#ffffff" letter-spacing="-1">Michele Ventimiglia</text>
+    <rect x="64" y="134" width="260" height="3" rx="1.5" fill="url(#rule)"/>
+    <text x="64" y="180" font-size="26" font-weight="600" fill="#ffe9d6">Senior AI Engineer</text>
+    <text x="64" y="218" font-size="19" fill="#ffd7b3" letter-spacing="0.4">Agentic AI  ·  GenAI  ·  Physical AI  ·  Milan</text>
+  </g>
+</svg>
