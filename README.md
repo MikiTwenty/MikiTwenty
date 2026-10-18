@@ -1,116 +1,173 @@
-# Michele Ventimiglia
+<div align="center">
 
-## 👋 About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Michele Ventimiglia, Senior AI Engineer. Agentic AI, GenAI, physical AI. Milan." src="assets/banner-light.svg" width="100%">
+</picture>
 
-I'm Michele Ventimiglia, an **AI Engineer & Consultant** with 3+ years of experience in **Generative AI**, **Machine Learning**, and **Computer Vision**.
-I help organizations identify where AI can drive real value and design end-to-end solutions from prototype to production.
-Currently completing an **MSc in AI for Science & Technology**.
+**Building agentic and GenAI systems, from cloud to edge.**
 
----
+[Website](https://micheleventimiglia.it) &nbsp;◆&nbsp; [LinkedIn](https://linkedin.com/in/michele-ventimiglia)
 
-## 🎓 Education
+<sub>[Now](#now) &nbsp;·&nbsp; [How I work](#how-i-work) &nbsp;·&nbsp; [Experience](#experience) &nbsp;·&nbsp; [Projects](#projects) &nbsp;·&nbsp; [Toolbox](#toolbox) &nbsp;·&nbsp; [Background](#background)</sub>
 
-- **MSc in Artificial Intelligence for Science & Technology** (2024 – Present)
-  University of Pavia · University of Milan · University of Milano-Bicocca
-  *Interdisciplinary training in AI with advanced CS, mathematics, physics, and managerial/legal skills*
+</div>
 
-- **BSc in Artificial Intelligence** (2021 – 2024)
-  Same universities
-  *Focus: ML, DL, NLP, Data Mining, Information Retrieval, AI Ethics & Law*
+<br>
 
----
+> [!TIP]
+> Working on agents, LLM systems or AI governance and want to compare notes? LinkedIn is the best way to reach me.
 
-## 💼 Experience
+## Now
 
-- **Chief AI Officer (CAIO)** – Ida Italia *(Startup)* (2025 – Present)
-  - Spearheading AI infrastructure to simplify and scale Italian export
-  - Automation, compliance, logistics and data-driven processes for Made in Italy
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- **AI Consultant** – Integrated Risk Centre S.r.l. (2023 – Present)
-  - Helping organizations identify opportunities to apply AI and design tailored solutions
-  - Built NLP/Gen-AI services (semantic search, document classification) into enterprise workflows
-  - Developed FastAPI microservices, containerized with Docker, for scalable ML deployment
+**At work**<br>
+Senior AI Engineer at **PwC Italy**: delivering agentic AI projects, leading project teams and working with clients from requirements to delivery. Research on physical AI.
 
-- **Freelance AI Engineer** (2023 – Present)
-  - Designing and implementing customized AI solutions to streamline processes
-  - Elevating productivity and driving business intelligence for clients
+</td>
+<td valign="top" width="50%">
 
-- **AI Engineer Intern** – Coherency S.r.l. (Apr 2024 – Jun 2024)
-  - Implemented computer vision and RAG for LLMs on a Unitree Go2 robot
-  - Enabled autonomous operation for security and guidance purposes
+**Around it**<br>
+Finishing an **MSc in AI for Science & Technology**. Outside work: travel, food, and retrocomputing at the Ctrl+Alt Museum in Pavia.
 
----
+</td>
+</tr>
+</table>
 
-## 🧪 Selected Projects
+## How I work
 
-- 🛠️ **DefectNet**: Custom ResNet for spotting product defects in industrial settings
-- 🎹 **Maestro Transformer**: Autoregressive model composing piano music
-- 🔍 **Clinical Trials Search Engine**: Domain-specific retrieval system for clinical trials
-- 🤖 **Robotic Museum Guide**: Audio-visual RAG on Unitree Go2 for visitor interaction
+```mermaid
+flowchart LR
+    A([Business problem]) --> B[Prototype]
+    B --> C[Evaluate]
+    C --> D[Production]
+    D --> E[Govern and iterate]
+    E -.-> A
 
----
+    classDef step fill:#b0581c,stroke:#7a3d12,color:#ffffff,stroke-width:1px;
+    classDef edge fill:#6f3a17,stroke:#4e2710,color:#ffffff,stroke-width:1px;
+    class A,E edge;
+    class B,C,D step;
+    linkStyle default stroke:#b0581c,stroke-width:2px;
+```
 
-## 📦 Open-Source
+I help organizations find where AI creates real value, then design the solution end to end, from the first prototype to production, with compliance in mind (I am also a certified ISO/IEC 42001 and 27001 lead auditor).
 
-- **[belso](https://github.com/MikiTwenty/belso)**: MIT-licensed toolkit on PyPI for schema-based validation of multi-provider LLM structured outputs
-- **OpenStreetMap**: Active contributor to the open geographic database
+## Experience
 
----
+<details open>
+<summary><b>PwC Italy</b> &nbsp;·&nbsp; Senior AI Engineer &nbsp;·&nbsp; 2026 to now</summary>
+<br>
 
-## 🛠️ Skills
+- Designing and delivering agentic AI projects
+- Leading project-based teams of engineers and consultants across client engagements
+- Direct client work, from requirements gathering to delivery
+- Research on physical AI
 
-| Category | Technologies |
-| -------- | ----------- |
-| **AI & ML** | Machine Learning, Deep Learning, Reinforcement Learning, NLP, Computer Vision |
-| **Generative AI** | LLMs, Agentic AI, RAG, LangChain, Transformers |
-| **Frameworks** | PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO |
-| **Programming** | Python, R, SQL |
-| **DevOps & Cloud** | Docker, Kubernetes, CI/CD, Git, GitHub, AWS, GCP, Linux |
-| **Backend & Data** | FastAPI, Django, PostgreSQL, Pandas, NumPy |
-| **Automation** | n8n, workflow automation |
-| **Soft Skills** | Auditing, Data Analysis, Problem Solving, Team Management |
+</details>
 
----
+<details open>
+<summary><b>IDA Italia</b> <i>(startup)</i> &nbsp;·&nbsp; Chief AI Officer &nbsp;·&nbsp; 2025 to 2026</summary>
+<br>
 
-## 📜 Certifications
+- Led the AI infrastructure meant to simplify and scale Italian export
+- Coordinated IT and AI teams in adopting AI across business processes
+- Automation, compliance, logistics and data-driven processes for Made in Italy
 
-- **Lead Auditor ISO/IEC 42001** – Artificial Intelligence Management Systems
-- **Lead Auditor ISO/IEC 27001** – Information Security Management Systems
-- **Auditor ISO 22301** – Business Continuity Management Systems
-- **Auditor ISO 19011** – Guidelines for Auditing Management Systems
-- **English C1** – University of Milano-Bicocca
+</details>
 
----
+<details>
+<summary><b>Integrated Risk Centre</b> &nbsp;·&nbsp; AI Consultant &nbsp;·&nbsp; 2023 to 2026</summary>
+<br>
 
-## 🏆 Talks & Awards
+- Helped organizations identify where to apply AI and designed tailored solutions
+- Built GenAI services (semantic search, document classification) into enterprise workflows
+- FastAPI microservices in Docker for scalable deployment
 
-- 🎤 **Invited Speaker** – *"AI for Technical Standards & Risk Management"*
-  Ctrl+Alt Museum, Pavia · June 2025
+</details>
 
-- 🏅 **Best Innovative Startup** – Techstars Startup Weekend Pavia · October 2024
+<details>
+<summary><b>Freelance</b> &nbsp;·&nbsp; AI Engineer &nbsp;·&nbsp; 2023 to 2026</summary>
+<br>
 
-- 🎤 **Invited Speaker** – *"AI & Human-Centred Tradition in SMEs"*
-  Vigevano · October 2024
+- RAG knowledge systems on LLM APIs and vector stores for semantic document retrieval
+- Agentic pipelines automating business intelligence workflows for SME clients
+- Python backends for AI features such as document classification and workflow automation
 
----
+</details>
 
-## 🤝 Associations & Volunteering
+<details>
+<summary><b>Coherency</b> &nbsp;·&nbsp; AI Engineer for Robotics (intern) &nbsp;·&nbsp; 2024</summary>
+<br>
 
-- **E.N.I.A.** – Associate, Information Security and Forensics Department
-- **Activators Pavia** – Associate, community promoting innovation, startups and business networking
-- **comPVter** – Associate, manages the Ctrl+Alt Museum (retrocomputing museum in Pavia)
-- **Il Cibernetico** – Board Member & Author, electronic magazine covering the cybernetic universe
-- **University of Pavia** – Former Student Union President
-- **University of Pavia** – Former Student Representative (AI BSc and Dept. of Mathematics)
+- Computer vision and RAG on a Unitree Go2 robot, for autonomous security and guidance use
 
----
+</details>
 
-## 🌐 Contact & Socials
+## Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michele-ventimiglia/)
+Most of my work lives in private client repositories, so this page is the portfolio.
 
----
+| | Project | What it does |
+| :-: | --- | --- |
+| 🏛️ | **Capitolium** | Matching and autocompletion for EU tenders: vector search to pair companies with the most relevant tenders, agents to complete the documents. *Transferred to a company as a product.* |
+| 🤖 | **Robotic Museum Guide** | Audio-visual RAG on a Unitree Go2 so the robot can talk with museum visitors. |
+| 🧬 | **Clinical Trials Search Engine** | Domain-specific retrieval system for clinical trials. |
 
-## ☕ Support My Work
+## Toolbox
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mikitwenty)
+**AI and GenAI**<br>
+`LLMs` `Agentic AI` `RAG` `LangChain` `LangGraph` `Ollama` `Transformers` `Computer vision` `Reinforcement learning`
+
+**Engineering**<br>
+`Python` `SQL` `FastAPI` `PyTorch` `PostgreSQL` `Docker` `AWS` `Azure` `CI/CD` `Linux`
+
+**Automation**<br>
+`n8n` `Workflow automation`
+
+## Background
+
+<details>
+<summary><b>Education and certifications</b></summary>
+<br>
+
+- **MSc in Artificial Intelligence for Science & Technology** (2024 to now) and **BSc in Artificial Intelligence** (2021 to 2024), University of Pavia, University of Milan, University of Milano-Bicocca
+- Certified Partner Specialist: Gemini Enterprise Deployment (Google Cloud)
+- Lead Auditor ISO/IEC 42001 (AI management systems) and ISO/IEC 27001 (information security); Auditor ISO 22301 (business continuity)
+- English C1
+
+</details>
+
+<details>
+<summary><b>Talks and awards</b></summary>
+<br>
+
+- Invited speaker, *"AI for Technical Standards & Risk Management"*, Ctrl+Alt Museum, Pavia (Jun 2025)
+- Invited speaker, *"AI & Human-Centred Tradition in SMEs"*, Vigevano (Oct 2024)
+- Best Innovative Startup, Techstars Startup Weekend Pavia (Oct 2024)
+
+</details>
+
+<details>
+<summary><b>Community</b></summary>
+<br>
+
+- Activators Pavia, innovation and startup community
+- comPVter, which runs the Ctrl+Alt Museum, a retrocomputing museum in Pavia
+- Il Cibernetico, electronic magazine: board member and author
+- Former Student Union President and student representative, University of Pavia
+- OpenStreetMap contributor
+
+</details>
+
+<br>
+
+<div align="center">
+
+<sub>━━━━━━━━━━ &nbsp;◆&nbsp; ━━━━━━━━━━</sub><br>
+<sub>Milan, Italy &nbsp;·&nbsp; Updated October 2026</sub>
+
+</div>
